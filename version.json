@@ -1,7 +1,7 @@
 {
-    "version_code": 1,
-    "version_name": "1.0.0",
+    "version_code": 2,
+    "version_name": "1.1.0",
     "download_url": "https://www.auraplay.site/",
     "force_update": true,
-    "changelog": "- إصلاح أخطاء\n- تحسين الأداء"
+    "changelog": "- إصلاح أخطاء\n- إزالة الإعلانات المزعجة\n- تحسين الاستقرار\n- حل مشكلة خطأ في التحديث"
 }
