@@ -1,7 +1,7 @@
 {
-    "version_code": 4,
-    "version_name": "1.7",
-    "download_url": "https://invalid-link.broken",
-    "force_update": true,
-    "changelog": "تنبيه هام: تم إيقاف دعم التطبيق نهائيًا؛ نظرًا للارتفاع الكبير في تكاليف تشغيل الخوادم (Servers) مقابل غياب العائدات المالية، يؤسفنا إبلاغكم بتوقف الخدمة. نشكر ثقتكم ودعمكم المستمر."
+  "version_code": 5,
+  "version_name": "1.7",
+  "download_url": "استبدل هذا برابط APK مباشر من GitHub Releases",
+  "force_update": false,
+  "changelog": "- اكتب التغييرات الفعلية في هذا الإصدار"
 }
