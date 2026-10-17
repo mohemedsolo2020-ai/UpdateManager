@@ -1,3 +1,4 @@
+
 {
   "37854": {
     "episodes": 1180,
@@ -18,5 +19,15 @@
         "episodes": 45
       }
     ]
+  },
+  "catalogOverrides": {
+    "12345": {
+      "firstAirDate": "2024-03-15",
+      "posterUrl": "https://example.com/poster.jpg"
+    },
+    "172463": {
+      "firstAirDate": "2026-01-09",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
+    }
   }
 }
