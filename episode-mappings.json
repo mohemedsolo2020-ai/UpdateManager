@@ -21,11 +21,11 @@
     ]
   },
   "catalogOverrides": {
-    "12345": {
+    "37854": {
       "firstAirDate": "2024-03-15",
-      "posterUrl": "https://example.com/poster.jpg"
+      "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
     },
-    "172463": {
+    "95479": {
       "firstAirDate": "2026-01-09",
       "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
     }
