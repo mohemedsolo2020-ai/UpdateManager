@@ -21,12 +21,14 @@
   },
   "catalogOverrides": {
     "37854": {
+      "type": "anime",
       "firstAirDate": "2026-04-05",
       "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
     },
     "95479": {
+      "type": "anime",
       "firstAirDate": "2026-01-09",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
     }
   }
 }
