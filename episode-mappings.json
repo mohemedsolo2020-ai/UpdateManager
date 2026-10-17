@@ -1,0 +1,22 @@
+{
+  "37854": {
+    "episodes": 1180,
+    "season": 1
+  },
+  "95479": {
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 34
+      },
+      {
+        "season": 3,
+        "episodes": 45
+      }
+    ]
+  }
+}
