@@ -8,15 +8,15 @@
     "seasons": [
       {
         "season": 1,
-        "episodes": 10
+        "episodes": 24
       },
       {
         "season": 2,
-        "episodes": 34
+        "episodes": 23
       },
       {
         "season": 3,
-        "episodes": 45
+        "episodes": 12
       }
     ]
   },
