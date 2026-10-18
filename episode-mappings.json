@@ -1,7 +1,13 @@
 {
   "37854": {
     "episodes": 1180,
-    "season": 1
+    "season": 1,
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": null
+      }
+    ]
   },
   "95479": {
     "seasons": [
@@ -16,6 +22,20 @@
       {
         "season": 3,
         "episodes": 12
+      }
+    ],
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": 113415
+      },
+      {
+        "season": 2,
+        "anilistId": 145064
+      },
+      {
+        "season": 3,
+        "anilistId": 172463
       }
     ]
   },
@@ -32,6 +52,20 @@
       {
         "season": 3,
         "episodes": 24
+      }
+    ],
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": null
+      },
+      {
+        "season": 2,
+        "anilistId": null
+      },
+      {
+        "season": 3,
+        "anilistId": null
       }
     ]
   },
@@ -53,6 +87,24 @@
         "season": 4,
         "episodes": 13
       }
+    ],
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": 120120
+      },
+      {
+        "season": 2,
+        "anilistId": 142853
+      },
+      {
+        "season": 3,
+        "anilistId": 163329
+      },
+      {
+        "season": 4,
+        "anilistId": 178083
+      }
     ]
   },
   "207347": {
@@ -65,6 +117,16 @@
         "season": 2,
         "episodes": 12
       }
+    ],
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": null
+      },
+      {
+        "season": 2,
+        "anilistId": null
+      }
     ]
   },
   "283428": {
@@ -76,6 +138,16 @@
       {
         "season": 2,
         "episodes": 14
+      }
+    ],
+    "parts": [
+      {
+        "season": 1,
+        "anilistId": 170942
+      },
+      {
+        "season": 2,
+        "anilistId": 189123
       }
     ]
   },
