@@ -1,0 +1,32 @@
+[
+  {
+    "id": "witanime",
+    "name": "WitAnime",
+    "link": "https://witanime.site/",
+    "image": "https://i.postimg.cc/GtpP2PwB/unnamed.webp"
+  },
+  {
+    "id": "ristoanime",
+    "name": "RistoAnime",
+    "link": "https://ristoanime.me/",
+    "image": "https://i.postimg.cc/j5BNspXG/3bk2P5o0-400x400.jpg"
+  },
+  {
+    "id": "mangasid",
+    "name": "MangaSid",
+    "link": "https://mangasid.com/",
+    "image": "https://i.postimg.cc/tTGppD6z/logo-(1).png"
+  },
+  {
+    "id": "topcinema",
+    "name": "Top Cinema",
+    "link": "https://topcinema.film/",
+    "image": "https://i.postimg.cc/7b8gNFJz/images.png"
+  },
+  {
+    "id": "anime3rb",
+    "name": "Anime3rb",
+    "link": "https://anime3rb.com/",
+    "image": "https://i.postimg.cc/nc3mr90h/download.png"
+  }
+]
